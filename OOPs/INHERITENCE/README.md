@@ -1,0 +1,1 @@
+all inheritence concept here
